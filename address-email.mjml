@@ -7,13 +7,13 @@
         </mj-text>
         <mj-divider border-color="#F45E43"></mj-divider>
         <mj-text>
-          <strong>Post Office Box:</strong> {{address.postOfficeBox}}<br />
-          <strong>Extended Address:</strong> {{address.extendedAddress}}<br />
-          <strong>Street Address:</strong> {{address.streetAddress}}<br />
-          <strong>Locality (City):</strong> {{address.locality}}<br />
-          <strong>Region (State/Province):</strong> {{address.region}}<br />
-          <strong>Postal Code:</strong> {{address.postalCode}}<br />
-          <strong>Country Name:</strong> {{address.countryName}}<br />
+          <strong>Post Office Box:</strong> {{postOfficeBox}}<br />
+          <strong>Extended Address:</strong> {{extendedAddress}}<br />
+          <strong>Street Address:</strong> {{streetAddress}}<br />
+          <strong>Locality (City):</strong> {{locality}}<br />
+          <strong>Region (State/Province):</strong> {{region}}<br />
+          <strong>Postal Code:</strong> {{postalCode}}<br />
+          <strong>Country Name:</strong> {{countryName}}<br />
         </mj-text>
         <mj-text color="#777" font-size="12px">
           <em>Required fields: locality, region, countryName</em>
