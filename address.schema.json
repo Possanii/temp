@@ -1,5 +1,4 @@
 {
-   "$id":"https://example.com/address.schema.json",
    "description":"An address similar to http://microformats.org/wiki/h-card",
    "type":"object",
    "properties":{
