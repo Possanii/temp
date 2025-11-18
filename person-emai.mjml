@@ -1,0 +1,20 @@
+<mjml>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="20px" color="#333333" font-family="Arial, sans-serif">
+          Person Information
+        </mj-text>
+        <mj-text>
+          <strong>First Name:</strong> {{firstName}}
+        </mj-text>
+        <mj-text>
+          <strong>Last Name:</strong> {{lastName}}
+        </mj-text>
+        <mj-text>
+          <strong>Age:</strong> {{age}}
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
